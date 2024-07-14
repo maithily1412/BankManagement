@@ -1,3 +1,8 @@
+Name: Maithily Vyas
+Company: CodTech IT solutions 
+Code: CT04JP2168 
+Domain: Java Programming 
+Mentor: Sravani gouni
 Bank Management System
 Overview
 The Bank Management System is a Java-based application designed to simulate common banking transactions such as deposits, withdrawals, balance inquiries, fast cash withdrawals, mini-statements, and PIN changes. The application features a graphical user interface (GUI) built using Swing, providing an interactive and user-friendly experience.
